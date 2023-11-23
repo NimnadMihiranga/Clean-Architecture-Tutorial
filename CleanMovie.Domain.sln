@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Domain", "CleanM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Application", "CleanMovie.Application\CleanMovie.Application.csproj", "{C16463F2-6C32-4473-8330-74B4231D1B93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Infrastructure", "CleanMovie.Infrastructure\CleanMovie.Infrastructure.csproj", "{011434AE-10CB-4701-BC65-E3F40B92274C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.API", "CleanMovie.API\CleanMovie.API.csproj", "{14E892A6-84B9-4CD0-B027-8696DFA101C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C16463F2-6C32-4473-8330-74B4231D1B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C16463F2-6C32-4473-8330-74B4231D1B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C16463F2-6C32-4473-8330-74B4231D1B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{011434AE-10CB-4701-BC65-E3F40B92274C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011434AE-10CB-4701-BC65-E3F40B92274C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011434AE-10CB-4701-BC65-E3F40B92274C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011434AE-10CB-4701-BC65-E3F40B92274C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E892A6-84B9-4CD0-B027-8696DFA101C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E892A6-84B9-4CD0-B027-8696DFA101C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E892A6-84B9-4CD0-B027-8696DFA101C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E892A6-84B9-4CD0-B027-8696DFA101C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
